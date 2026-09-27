@@ -158,3 +158,10 @@ The `screenshots/` folder contains:
 4. Accepted submission evidence for Compare the Triplets
 5. Accepted submission evidence for Sparse Arrays
 6. HackerRank 3-Star badge evidence
+
+
+## Final Activity 8 Report
+
+[View / Download the Activity 8 PDF Report](./Activity-8-HackerRank-Portfolio-Report.pdf)
+
+   
