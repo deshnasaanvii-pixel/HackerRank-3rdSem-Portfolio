@@ -14,13 +14,13 @@
 
 ## Problems Solved
 
-| No. | Problem                                            | Topic                     | Time Complexity  | Space Complexity |
-| --- | -------------------------------------------------- | ------------------------- | ---------------- | ---------------- |
-| 1   | [Diagonal Difference](./01-Diagonal-Difference/)   | 2D Arrays / Matrix        | O(N)             | O(1) auxiliary   |
-| 2   | [Dynamic Array](./02-Dynamic-Array/)               | Vectors / Data Structures | O(N + Q)         | O(N + Q)         |
-| 3   | [Time Conversion](./03-Time-Conversion/)           | Strings / Logic           | O(1)             | O(1)             |
-| 4   | [Compare the Triplets](./04-Compare-the-Triplets/) | Basic Implementation      | O(1)             | O(1)             |
-| 5   | [Sparse Arrays](./05-Sparse-Arrays/)               | Hash Map / Strings        | O(N + Q) average | O(N)             |
+| No. | Problem                                                                                                                      | Topic                     | Time Complexity  | Space Complexity |
+| --- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------- | ---------------- |
+| 1   | [Diagonal Difference](https://github.com/deshnasaanvii-pixel/HackerRank-3rdSem-Portfolio/tree/main/01-Diagonal-Difference)   | 2D Arrays / Matrix        | O(N)             | O(1) auxiliary   |
+| 2   | [Dynamic Array](https://github.com/deshnasaanvii-pixel/HackerRank-3rdSem-Portfolio/tree/main/02-Dynamic-Array)               | Vectors / Data Structures | O(N + Q)         | O(N)             |
+| 3   | [Time Conversion](https://github.com/deshnasaanvii-pixel/HackerRank-3rdSem-Portfolio/tree/main/03-Time-Conversion)           | Strings / Logic           | O(1)             | O(1)             |
+| 4   | [Compare the Triplets](https://github.com/deshnasaanvii-pixel/HackerRank-3rdSem-Portfolio/tree/main/04-Compare-the-Triplets) | Basic Implementation      | O(1)             | O(1)             |
+| 5   | [Sparse Arrays](https://github.com/deshnasaanvii-pixel/HackerRank-3rdSem-Portfolio/tree/main/05-Sparse-Arrays)               | Hash Map / Strings        | O(N + Q) average | O(N)             |
 
 ---
 
@@ -31,40 +31,40 @@
 * **Concept:** 2D array traversal and diagonal calculation
 * **Time:** O(N)
 * **Space:** O(1) auxiliary
-* [View Solution](./01-Diagonal-Difference/solution.cpp)
-* [View Screenshot](./screenshots/diagonal_difference.png)
+* [View Solution](https://github.com/deshnasaanvii-pixel/HackerRank-3rdSem-Portfolio/blob/main/01-Diagonal-Difference/solution.cpp)
+* [View Screenshot](https://github.com/deshnasaanvii-pixel/HackerRank-3rdSem-Portfolio/blob/main/screenshots/diagonal_difference.png)
 
 ### 2. Dynamic Array
 
 * **Concept:** Dynamic sequences and query-based access
 * **Time:** O(N + Q)
-* **Space:** O(N + Q)
-* [View Solution](./02-Dynamic-Array/solution.cpp)
-* [View Screenshot](./screenshots/dynamic_array.png)
+* **Space:** O(N)
+* [View Solution](https://github.com/deshnasaanvii-pixel/HackerRank-3rdSem-Portfolio/blob/main/02-Dynamic-Array/solution.cpp)
+* [View Screenshot](https://github.com/deshnasaanvii-pixel/HackerRank-3rdSem-Portfolio/blob/main/screenshots/dynamic_array.png)
 
 ### 3. Time Conversion
 
 * **Concept:** String processing and 12-hour to 24-hour time conversion
 * **Time:** O(1)
 * **Space:** O(1)
-* [View Solution](./03-Time-Conversion/solution.cpp)
-* [View Screenshot](./screenshots/time_conversion.png)
+* [View Solution](https://github.com/deshnasaanvii-pixel/HackerRank-3rdSem-Portfolio/blob/main/03-Time-Conversion/solution.cpp)
+* [View Screenshot](https://github.com/deshnasaanvii-pixel/HackerRank-3rdSem-Portfolio/blob/main/screenshots/time_conversion.png)
 
 ### 4. Compare the Triplets
 
 * **Concept:** Element-wise comparison and counting
 * **Time:** O(1)
 * **Space:** O(1)
-* [View Solution](./04-Compare-the-Triplets/solution.cpp)
-* [View Screenshot](./screenshots/compare_the_triplets.png)
+* [View Solution](https://github.com/deshnasaanvii-pixel/HackerRank-3rdSem-Portfolio/blob/main/04-Compare-the-Triplets/solution.cpp)
+* [View Screenshot](https://github.com/deshnasaanvii-pixel/HackerRank-3rdSem-Portfolio/blob/main/screenshots/compare_the_triplets.png)
 
 ### 5. Sparse Arrays
 
 * **Concept:** String frequency counting using a hash map
 * **Time:** O(N + Q) average
 * **Space:** O(N)
-* [View Solution](./05-Sparse-Arrays/solution.cpp)
-* [View Screenshot](./screenshots/sparse-array.png)
+* [View Solution](https://github.com/deshnasaanvii-pixel/HackerRank-3rdSem-Portfolio/blob/main/05-Sparse-Arrays/solution.cpp)
+* [View Screenshot](https://github.com/deshnasaanvii-pixel/HackerRank-3rdSem-Portfolio/blob/main/screenshots/sparse-array.png)
 
 ---
 
@@ -74,7 +74,7 @@
 
 The HackerRank 3-Star badge earned during the activity is included as submission evidence.
 
-[View 3-Star Badge](./screenshots/three-star-badge.png.png)
+[View 3-Star Badge](https://github.com/deshnasaanvii-pixel/HackerRank-3rdSem-Portfolio/blob/main/screenshots/three-star-badge.png.png)
 
 ---
 
@@ -124,6 +124,7 @@ HackerRank-3rdSem-Portfolio/
 │   ├── sparse-array.png
 │   └── three-star-badge.png.png
 │
+├── Activity-8-HackerRank-Portfolio-Report.pdf
 ├── Activity-8-Report-Text.txt
 ├── README.md
 └── .gitignore
@@ -159,9 +160,22 @@ The `screenshots/` folder contains:
 5. Accepted submission evidence for Sparse Arrays
 6. HackerRank 3-Star badge evidence
 
+---
 
 ## Final Activity 8 Report
 
-[View / Download the Activity 8 PDF Report](./Activity-8-HackerRank-Portfolio-Report.pdf)
+📄 [View / Download the Activity 8 PDF Report](https://github.com/deshnasaanvii-pixel/HackerRank-3rdSem-Portfolio/blob/main/Activity-8-HackerRank-Portfolio-Report.pdf)
 
-   
+---
+
+## Activity Completion
+
+All five mandatory HackerRank problems have been completed and documented with:
+
+* Solution source code
+* Time and space complexity analysis
+* Accepted submission screenshots
+* HackerRank profile link
+* 3-Star badge evidence
+* GitHub portfolio repository
+* Final 2-page Activity 8 PDF report
